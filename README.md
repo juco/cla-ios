@@ -1,4 +1,4 @@
 cla-ios
 =======
 
-Claromentis IOS app
+The Claromentis IOS app - a work in progress.
